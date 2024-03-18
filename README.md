@@ -1,6 +1,6 @@
 # Academic-Query-Classification
 
-This project demonstrates how to perform text classification using a Recurrent Neural Network (RNN) in TensorFlow/Keras. The model is trained on a dataset of text documents labeled with categories, and it predicts the category of unseen documents.
+This project demonstrates how to perform text classification using a Recurrent Neural Network (RNN) in TensorFlow. The model is trained on a dataset of text documents labeled with categories, and it predicts the category of unseen documents.
 
 ## Dataset
 
