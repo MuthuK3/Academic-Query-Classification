@@ -9,6 +9,7 @@ The dataset consists of text documents and their corresponding categories. The t
 ## Model Architecture
 
 The model architecture includes an Embedding layer followed by an LSTM layer and a Dense output layer with a sigmoid activation function. The model is compiled with binary crossentropy loss and the Adam optimizer.
-Training the Model
+
+## Training the Model
 
 The model is trained on the preprocessed text data using a batch size of 64 and for 50 epochs. The training data is split into training and validation sets to evaluate the model's performance.
